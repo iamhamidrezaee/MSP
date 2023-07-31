@@ -19,7 +19,7 @@ Provides interactive Jupyter notebooks for data exploration and model analysis.
 
 Applies feature engineering for improving the model performance and prediction accuracy. 
 
-Explains every part of the project with great detail and description
+Explains every part of the project with great detail and description.
 
 ## Usage:
 
