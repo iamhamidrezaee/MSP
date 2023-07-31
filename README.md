@@ -7,7 +7,7 @@ This repository contains a machine learning project focused on predicting the st
 
 # Key Features:
 
-Utilizes historical daily stock data of Microsoft (MSFT) from 1987 to 2023.
+Utilizes historical daily stock data of Microsoft (MSFT) from 1987 to 2023. "\t"
 Implements XGBoost regression to build a robust predictive model.
 Includes time series analysis to capture trends and seasonality in the stock prices.
 Performs hyperparameter tuning using GridSearchCV for optimal model performance.
